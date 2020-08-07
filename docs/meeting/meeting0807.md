@@ -19,7 +19,7 @@
 # 다음 시간까지 
 > 데이터 탐색(EDA)을 통해 insight를 찾아보기
 
-1. 빅콘 데이터 탐색 + 설명회 영상 시청
+1. 빅콘 데이터 탐색 + 설명회 영상 시청 : https://www.youtube.com/watch?v=YAIKbArBmPY
 
 1. EDA 통해 insight 찾고
 
