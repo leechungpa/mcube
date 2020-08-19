@@ -1,9 +1,13 @@
 ######
 # data
 ######
-data/
+data/bigcontest/
 
 
+
+######
+# python
+######
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
