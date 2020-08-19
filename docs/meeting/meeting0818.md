@@ -8,7 +8,9 @@
 
 # 문제
 - 대구의 구별 데이터 없음
+
   -> 매출은 어느정도 범위정보로 부터 영향을 받을 것인가? (구?서울대구?, 전국?)
+  
   -> 대구데이터: https://en.wikipedia.org/wiki/Template:COVID-19_pandemic_data/South_Korea_medical_cases#cite_note-:0-1
 
 데이터가 서로 업종이 연결되지 않음
