@@ -163,7 +163,9 @@
 
 +) 나중에 분량 보고 유통 물류 EDA 정리한 것 추가
 
-
+# 주제 설명 img
+![](https://i.imgur.com/lj3vcjX.png)
+![](https://i.imgur.com/F8KB6j2.png)
 
 # 미해결 (다음 회의 논의사항)
 - 피해규모 예측 어떻게 할건지
