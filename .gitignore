@@ -1,7 +1,15 @@
 ######
+# ETC
+######
+.DS_Store
+chromedriver.exe
+
+######
 # data
 ######
 data/bigcontest/
+
+
 
 
 ######
