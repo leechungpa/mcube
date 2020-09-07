@@ -1,5 +1,0 @@
-gg_economic_pop_2019 : 경기도 시군별 경제활동인구
-gg_pop_2019 : 경기도 시군별 성별 경제활동인구
-gg_use_district_2019 : 경기도 용도지역
-gg_lc_feature : 경기지역화폐 시군별 특징
-gg_lc_current_state : 경기지역화폐 발행 및 이용현황
