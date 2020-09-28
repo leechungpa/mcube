@@ -1,6 +1,6 @@
-# 뉴노멀 시대의 경제 지원책 제안 : 지역별 업종 맞춤형 지역화폐
+# 뉴노멀 시대의 지역화폐 제안 : 지역별 업종 맞춤형 지역화폐
 
-- 2020 데이터 청년 캠퍼스 X 2020 
+- 2020 빅콘테스트 : MCUBE 팀 
 
 - [서정아](https://github.com/zzna), [신민경](https://github.com/minzzing)
 [은혜원](https://github.com/haewon96), [이청파](https://github.com/leechungpa), [정지혜](https://github.com/2709sophia)
